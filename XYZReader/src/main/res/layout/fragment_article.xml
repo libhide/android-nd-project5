@@ -94,7 +94,7 @@
                     android:paddingBottom="@dimen/article_detail_body_bottom_margin"
                     android:textColor="@color/body_text_1"
                     android:textColorLink="@color/theme_accent"
-                    android:textSize="@dimen/text_size_medium"
+                    android:textSize="@dimen/text_size_large"
                     tools:text="@string/placeholder_article_body" />
 
             </LinearLayout>
